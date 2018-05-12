@@ -1,0 +1,29 @@
+_repo: Odd_22291
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Feuvre, Amy
+    alias: Feuvre, Amy Le
+    deathdate: 1929
+    gutenberg_agent_id: '3736'
+    url: http://www.gutenberg.org/2009/agents/3736
+description: Betty puzzles over a biblical text that says salvation comes through
+  tribulation. But when she and her siblings are sent to the country by their socialite
+  parents, she meets a kindred spirit.
+gutenberg_issued: '2007-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22291'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+title: Odd
+url: http://www.gutenberg.org/ebooks/22291
